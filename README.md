@@ -1,6 +1,9 @@
 # Federated-Learning-MNIST
 Implement MNIST Image Classification via Federated Learning (FedAV) in java pure
 
+#note:
+Before run code unzip data.zip file
+
 Sample Output
 
 ```
