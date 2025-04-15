@@ -1,5 +1,5 @@
 # Federated-Learning-MNIST
-Implement MNIST Image Classification via Federated Learning in java pure
+Implement MNIST Image Classification via Federated Learning (FedAVG) in java pure
 
 Sample Output
 
